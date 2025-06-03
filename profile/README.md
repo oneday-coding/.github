@@ -20,7 +20,7 @@
 
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| 한건희 | BE| [@your-github-id]([https://github.com/your-github-id](https://github.com/Hangeony)) |
+| 한건희 | BE| [@Hangeony](https://github.com/Hangeony) |
 | 안정환 | BE | [@example2](https://github.com/example2) |
 | 민선오 | FE | [@example-id](https://github.com/example-id) |
 | 신우혁 | FE | [@example2](https://github.com/example2) |
