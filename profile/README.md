@@ -21,10 +21,10 @@
 | 이름 | 역할 | GitHub |
 |------|------|--------|
 | 한건희 | BE| [@Hangeony](https://github.com/Hangeony) |
-| 안정환 | BE | [@example2](https://github.com/example2) |
-| 민선오 | FE | [@example-id](https://github.com/example-id) |
-| 신우혁 | FE | [@example2](https://github.com/example2) |
-| 김보민 | FE | [@example2](https://github.com/example2) |
+| 안정환 | BE | [@jnghwn99](https://github.com/jnghwn99) |
+| 민선오 | FE | [@SunFive](https://github.com/sunfivemin) |
+| 신우혁 | FE | [@woo-dev-log](https://github.com/woo-dev-log) |
+| 김보민 | FE | [@김보민](https://github.com/bominkim90) |
 
 
 > 🔗 PR / Issue 작성 시 템플릿을 꼭 활용해 주세요!
