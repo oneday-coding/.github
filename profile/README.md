@@ -27,8 +27,6 @@
 | 김보민 | FE | [@김보민](https://github.com/bominkim90) |
 
 
-> 🔗 PR / Issue 작성 시 템플릿을 꼭 활용해 주세요!
-
 ---
 
 ## 🌱 함께 성장해요!
